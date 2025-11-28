@@ -1,5 +1,9 @@
 @echo off
+start cmd.exe
+start notepad.exe
+start powershell.exe
 
-echo avast develepors are fucking niggers
+echo avast developers are fucking niggers L
 
 pause
+
