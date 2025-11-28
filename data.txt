@@ -1,9 +1,6 @@
 @echo off
-start cmd.exe
 start notepad.exe
-start powershell.exe
-
-echo avast developers are fucking niggers L
 
 pause
+
 
